@@ -18,4 +18,5 @@ group :test do
   gem 'rspec-rails'
   gem 'autotest'
   gem 'autotest-rails-pure'
+  gem 'factory_girl_rails'
 end
